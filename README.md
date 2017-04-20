@@ -1,10 +1,10 @@
 # Gilfoyle
 Brought to you by The Collective's Reed Dunn
 
-##### Summary:
+### Summary:
 Like Gilfoyle on Silicon Valley our Gilfoyle will keep an eye on your servers and let you know when sh** is hitting the fan.
 
-##### Automated Install
+### Automated Install
 1. Download this repo to your servers home(~) directory
 ```
 git clone https://github.com/TheCollectiveIO/gilfoyle_notify.git
@@ -36,7 +36,7 @@ sudo shutdown -r now
 rm -rf /home/$USERNAME/gilfoyle_notify
 ```
 
-##### Manual Install
+### Manual Install
 If you have a very customized hosting environment you it might be safer for you to run the commands in the installer through ther terminal.
 
 1. Download this repo to your server
