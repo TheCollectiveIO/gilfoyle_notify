@@ -21,7 +21,7 @@ do
     \"channel\": \"${SLACK_CHANNEL}\", \
     \"username\": \"Gilfoyle Says\", \
     \"icon_emoji\": \"${SLACK_EMOIJI}\", \
-    \"text\": \"While you were busy minoring in gender studies at Sarah Lawrence, I wanted to let you know that your server *${SERVER_NAME}* is changing.\n\n *This File Changed:* \n\`${FILECHANGED}\`\" \
+    \"text\": \"While you were busy singing A Capella at Sarah Lawrence, I wanted to let you know that your server *${SERVER_NAME}* is changing.\n\n *This File Changed:* \n\`${FILECHANGED}\`\" \
   }" \
   $SLACK_API_KEY_URL
 done
